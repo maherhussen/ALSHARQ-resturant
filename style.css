@@ -311,8 +311,8 @@ header * {
 
 /* Gallery section start */
 #gallery img{
-background-image: center center none repeat;
-  height: 85vh;
+
+ 
   width: 200vh;
 }
 /* Gallery section end */
@@ -486,10 +486,8 @@ form button {
       padding: 30px 10px;
     }
       
-    #gallery .gallery-item img {
-      background-image: center center;
-      width: 20;
-      height: 10;
+    #gallery img {
+      width: 59vh;
       }
     
     #offers .offers-items {
