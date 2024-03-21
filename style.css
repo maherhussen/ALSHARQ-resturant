@@ -311,9 +311,13 @@ header * {
 
 /* Gallery section start */
 #gallery img{
-
+ max-width: 100%;
  
-  width: 200vh;
+  background:  center center/cover fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
 }
 /* Gallery section end */
 /* Contact Section start */
@@ -486,9 +490,7 @@ form button {
       padding: 30px 10px;
     }
       
-    #gallery img {
-      width: 55vh;
-      }
+  
     
     #offers .offers-items {
       flex-direction: column;
