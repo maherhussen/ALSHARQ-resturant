@@ -311,13 +311,9 @@ header * {
 
 /* Gallery section start */
 #gallery img{
+   height: 500px;
+  width:500vh
  max-width: 100%;
- 
-  background:  center center/cover fixed;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-
 }
 /* Gallery section end */
 /* Contact Section start */
