@@ -311,8 +311,8 @@ header * {
 
 /* Gallery section start */
 #gallery img{
-   height: 500px;
-  width:500vh;
+  height: 500px;
+  width: 500vh;
  max-width: 100%;
 }
 /* Gallery section end */
